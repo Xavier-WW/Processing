@@ -9,4 +9,4 @@ This research deeply explores and observes the relationship and interaction betw
 
 demo:
 
-<img src="https://github.com/Xavier-WW/Processing/blob/main/demo.gif" width=50% height=50%>
+<img src="https://github.com/Xavier-WW/Processing/blob/main/demo.gif" width=40% height=40%>
