@@ -1,4 +1,4 @@
-## Processing
+## Processing 
 ### Processing image creation, using processing.js
 <br>
 <p>This is inspired by nature and human observation. They are the practice/design part of my public space and experience mapping research project
